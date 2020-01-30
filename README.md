@@ -1,0 +1,2 @@
+# Chatbot-
+A chatbot (also known as a smartbot, conversational bot, chatterbot, interactive agent, conversational interface, Conversational AI, talkbot or artificial conversational entity) is a computer program or an artificial intelligence which conducts a conversation via auditory or textual methods. Such programs are often designed to convincingly simulate how a human would behave as a conversational partner, thereby passing the Turing test. Chatbots are typically used in dialog systems for various practical purposes including customer service or information acquisition.
